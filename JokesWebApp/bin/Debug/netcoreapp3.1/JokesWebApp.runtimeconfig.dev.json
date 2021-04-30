@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\parde\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\parde\\.nuget\\packages"
+    ]
+  }
+}
